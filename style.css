@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+    color: black;
+    font-family:"Jersey 10", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: aqua;
+    color: black;
+    font-family:"Jersey 10", sans-serif;
+}
